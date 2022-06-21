@@ -4,7 +4,7 @@
 
 ### 👩🏽‍💻 About me:
 
-- 💻 I'm working as Front-end developer at [AMARO](https://amaro.com/br/pt/);
+- 💻 I'm working as Front-end developer at [Zenvia](https://www.zenvia.com/);
 - 🎡 I like to travel, go to art exhibitions, to the movies and make new friends;
 
 
