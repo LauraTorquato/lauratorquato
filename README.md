@@ -1,6 +1,6 @@
 
 
-## Hi, I'm Laura Torrquato! 👋🏽
+## Hi, I'm Laura Torquato! 👋🏽
 
 ### 👩🏽‍💻 About me:
 
