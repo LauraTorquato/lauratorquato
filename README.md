@@ -4,7 +4,7 @@
 
 ### 👩🏽‍💻 About me:
 
-- 💻 I'm working as Front-end developer at [Zenvia](https://www.zenvia.com/);
+- 💻 I'm working as Front-end developer at [Dafiti Group](https://www.dafiti.com.br/);
 - 🎡 I like to travel, go to art exhibitions, to the movies and make new friends;
 
 
