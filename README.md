@@ -4,7 +4,7 @@
 
 ### 📍 About Me:
 
-- 💻 I'm working as Front-end developer at [Dafiti Group](https://www.dafiti.com.br/);
+- 💻 I'm working as Front-end developer at [Menlo](https://www.menlopagamentos.com.br/);
 - 🎡 I like traveling, going to art exhibitions, taking photos, going to concerts and making new friends;
 
 ### 📱 Contact Me:
